@@ -29,6 +29,7 @@
 - 애님노티파이스테이트에 의한 콤보 시스템
 - 인터페이스를 활용한 캐릭터/무기의 상태 참조
 - 데이터테이블을 활용한 몽타쥬 및 무기 공격력, 크리티컬 관리
+- 서드파티 캐릭터/애니메이션 리타깃
 - 컴포넌트를 활용한 캐릭터 수치, 무기 수치 관리
 - 파티클 시스템의 활용 및 편집
 - AI - AIController와 BehaviorTree
@@ -55,6 +56,7 @@
 - 높이맵과 레이어맵이 적용된 LandScape
 - Cull 적용된 Folige
 - Material 프로그래밍 - Dissolve, LandScape, Panner 등
+- Inverse Kinemetics
 - 포스트프로세스
 
 # 앞으로 무엇을 더 배우나
