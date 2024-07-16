@@ -56,3 +56,37 @@
 - Cull 적용된 Folige
 - Material 프로그래밍 - Dissolve, LandScape, Panner 등
 - 포스트프로세스
+
+# 앞으로 무엇을 더 배우나
+## Tore06_OnlineSubsystem
+- 멀티플레이의 Travle - ServerTravle, ClientTravle
+- 상태의 복제 - Replicates, ReplicatesMovement
+- Dedicated Server와 Listen Server
+- Host 및 Join 기능
+- LAN과 Internet 환경의 접속
+- Null 서브시스템
+- 세션의 생성과 삭제
+- 세션의 검색
+- 최대 인원 도달과 세션의 시작
+- 스팀 온라인 서비스
+- (가능하다면) 간단한 멀티플레이 게임 - RPC, PlayerState, GameState 프레임워크 활용
+
+## Tore07_Gameplay Ability System
+- 지금까지 한 것들의 종합
+- 게임플레이 태그를 활용한 액션 관리
+- 멀티플레이 심화 기능 - RepNotity, LocalRole
+- 변수와 월드 액터의 직렬화
+- 하드 레퍼런스와 소프트 레퍼런스
+- 에셋의 비동기 로드
+- 최적화를 위한 프로파일링 - Stat, Insights
+- 패키징 관련 버그
+
+## Tore_Features
+- 게임 플레이 이외의 것들
+- 플러그인 - 툴바버튼, 디테일패널, 에셋툴, 디버거카테고리 커스터마이징
+- 아카이브 시스템을 활용한 렌더링 데이터 저장
+- 자체 에셋 팩토리 기능
+- 라이팅맵과 밉맵, 큐브맵 최적화
+- LOD 생성 및 관리
+- Actor Merging, HLOD를 활용한 최적화
+- POM 등 차세대 렌더링 기법
